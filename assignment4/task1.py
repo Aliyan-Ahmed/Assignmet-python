@@ -1,6 +1,6 @@
 obj = {
-    "first_name" : "Jaffar",
-    "last_name," : "Abbas",
+    "first_name" : "Aliyan",
+    "last_name," : "Ahmed",
     "age":"19",
     "city" : "Karachi"
 }
